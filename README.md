@@ -1,7 +1,7 @@
 # js-day01
 # **Desafio Dia 01 , 07 dias de codigo de JS**
 # 26/02/2025
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+El color de fondo sera `#6b3226` for light mode and `#000000` for dark mode.
 #Badges
 ![Static Badge](https://img.shields.io/badge/javascript-green?style=flat&logoColor=blue-logo)
 ![Static Badge](https://img.shields.io/badge/html5-orange?style=flat-square&logoColor=blue-logo)
