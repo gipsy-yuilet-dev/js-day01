@@ -1,33 +1,34 @@
- 
+ //Aqui tenemos la variables del programa
 
-let numeroUn = 1
+let numeroUno = 10;
 
-let stringUn = '1'
+let stringUno = '110';
 
-let numeroTreinta = 30
+let numeroSegundo = 30;
 
-let stringTreinta = '30'
+let stringSegundo = '30';
 
-let numeroDiez = 10
+let numeroTercero = 10;
 
-let stringDiez = '10'
-
-
+let stringTercero = '10';
 
 
-if (COMPARAR numeroUn y stringUn) {
 
-  console.log('Las variables numeroUn y stringUn tienen el mismo valor, pero tipos diferentes')
+//Aqui tenemos las comparaciones de las variables del programa
+//Comparamos si las variables son iguales o no con simbolo ==
+if (numeroUno == stringUno) {
+ //Si son iguales se imprime el mensaje
+  console.log('Las variables numeroUno y stringUno tienen el mismo valor, pero tipos diferentes')
 
 } else {
-
-  console.log('Las variables numeroUn y stringUn no tienen el mismo valor')
+//sino enviamos mensaje de error o advertencia
+  console.log('Las variables numeroUno y stringUno no tienen el mismo valor')
 
 }
 
  
-
-if (COMPARAR numeroTreinta y stringTreinta) {
+//si los tipos son identicos con === se imprime el mensaje
+if (numeroSegundo === stringSegundo) {
 
   console.log('Las variables numeroTreinta y stringTreinta tienen el mismo valor y el mismo tipo')
 
@@ -35,4 +36,10 @@ if (COMPARAR numeroTreinta y stringTreinta) {
 
   console.log('Las variables numeroTreinta y stringTreinta no tienen el mismo tipo')
 
+}
+// si los tipos son diferentes con !== se imprime el mensaje
+if(numeroTercero != stringTercero){
+  console.log('Las variables numeroTercero y stringTercero tienen el mismo valor, pero tipos diferentes')
+}else{
+  console.log('Las variables numeroTercero y stringTercero no tienen el; mismo valor')
 }
