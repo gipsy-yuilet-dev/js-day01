@@ -9,6 +9,7 @@ El color de fondo sera `#6b3226` for light mode and `#000000` for dark mode.
 # **Desafio Dia 01**
 ## **Objetivo**
 El dia de hoy nuestra meta principal fue aprender mucho mas sobre los operadores de comparacion, en este caso es muy util para hacer comparaciones logicas , mediantes las sentencias de control :
+<hr>
 ## **Operadores de Comparacion en JS(Javascript)**
 | Operador | Operacion     | Ejemplo  |
 |----------|---------------|----------|
@@ -31,10 +32,10 @@ if (10 === "10")//retorna false
 if(true === true)//retorna true
 if(10 === 10)//retorna true
 
-!= diferente a: este operador hace una comparacion de valor entre dos variables, si son diferentes devuelve true , si no son diferentes devuelve false.
-!== no identico a: este operador hace una comparacion de valor y tipo entre dos variables,
+!= diferente a: este operador hace una comparacion de valor entre dos variables, <br>si son diferentes devuelve true , si no son diferentes devuelve false.
+!== no identico a: este operador hace una comparacion de valor <br>y tipo entre dos variables,
 si son diferentes devuelve true, si no son diferentes devuelve false.
-
+<hr>
 ### **Menciones**
 @aluralatam/Desafio 07DiasDeCodigoJS
 codigo de ejemplo Use `Alura Latam` como referencia para el desafio.
@@ -42,5 +43,5 @@ codigo de ejemplo Use `Alura Latam` como referencia para el desafio.
 
 ###Links(Fuentes de la informacion)
 [alura](https://www.aluracursos.com/blog/como-utilizar-operadores-de-comparacion-en-javascript?utm_campaign=al_7_days_logica_javascript_-_dia_1&utm_medium=email&utm_source=RD+Station)
-
+<hr>
  Operadores de Comparacion en JS
