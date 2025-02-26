@@ -38,5 +38,9 @@ si son diferentes devuelve true, si no son diferentes devuelve false.
 ### **Menciones**
 @aluralatam/Desafio 07DiasDeCodigoJS
 codigo de ejemplo Use `Alura Latam` como referencia para el desafio.
+<hr>
+
 ###Links(Fuentes de la informacion)
-[This link](https://www.aluracursos.com/blog/como-utilizar-operadores-de-comparacion-en-javascript?utm_campaign=al_7_days_logica_javascript_-_dia_1&utm_medium=email&utm_source=RD+Station) Operadores de Comparacion en JS
+[alura](https://www.aluracursos.com/blog/como-utilizar-operadores-de-comparacion-en-javascript?utm_campaign=al_7_days_logica_javascript_-_dia_1&utm_medium=email&utm_source=RD+Station)
+
+ Operadores de Comparacion en JS
